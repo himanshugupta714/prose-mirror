@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Container App 1`] = `
+<div>
+  <div>
+    <div
+      class="ProseMirror"
+      contenteditable="true"
+      translate="no"
+    >
+      <p>
+        12 345 678 910
+      </p>
+    </div>
+  </div>
+</div>
+`;
